@@ -7,3 +7,7 @@ edition = "2018"
 [dependencies]
 hdf5 = "0.8.1"
 ndarray = "0.15.6"
+
+[dev-dependencies]
+predicates = "2"
+assert_cmd = "2"
